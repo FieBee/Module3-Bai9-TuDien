@@ -7,7 +7,7 @@
 </head>
 <body>
 <h2>Vietnamese Dictionary</h2>
-<form method="post", action="/translate">
+<form method="post", action="dictionary.jsp">
     <input type="text" name="txtSearch" placeholder="Enter your word: "/>
     <input type = "submit" id = "submit" value = "Search"/>
 </form>
